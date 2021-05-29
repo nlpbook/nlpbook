@@ -1,9 +1,9 @@
 package:
   name: nlpbook
-  version: 0.0.20
+  version: 1.0.0
 source:
-  sha256: 11e2a0e91b4c4682225aa10589b265d8ff14a79c60830e07fd164d10e83468d9
-  url: https://files.pythonhosted.org/packages/26/b7/dee99934017984ae0db592b855cfd62cc8a01f3cbeb80ef0c9cbb648c1ee/nlpbook-0.0.20.tar.gz
+  sha256: 6fe0951c39c71ec9b3a751f5e9e48351c850419a3fd9727a8622a6802378759f
+  url: https://files.pythonhosted.org/packages/f4/e8/78de79115c494517f36679e9978ae2f2f1aede55bbfa6653dea96547f141/nlpbook-1.0.0.tar.gz
 about:
   dev_url: https://appliednlpbook.com
   doc_url: https://appliednlpbook.com
