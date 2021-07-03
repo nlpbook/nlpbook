@@ -71,7 +71,7 @@ Next, download data from AWS S3 (the data files are too large to store and acces
 
 ```
 aws s3 cp s3://applied-nlp-book/data/ data --recursive --no-sign-request
-aws s3 cp s3://applied-nlp-book/models/ag_dataset/ner/ models/ag_dataset/ner --recursive --no-sign-request
+aws s3 cp s3://applied-nlp-book/models/ag_dataset/ models/ag_dataset --recursive --no-sign-request
 ```
 
 ## How This Repo is Organized
