@@ -67,6 +67,8 @@ If you're on Windows or another platform that doesn't already have `git` install
 
 If you want a specific version to match the copy of the book you have (this can occasionally change), you can find previous versions on the [releases page](https://github.com/nlpbook/nlpbook/releases).
 
+## Getting the Data
+
 Next, download data from AWS S3 (the data files are too large to store and access on Github).
 
 ```
